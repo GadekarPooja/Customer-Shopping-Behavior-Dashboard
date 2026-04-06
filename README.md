@@ -2,7 +2,6 @@
 
  📌 Project Overview
 This project focuses on analyzing customer shopping behavior using an end-to-end data analytics . 
-
 The goal is to extract meaningful insights from raw data and build an interactive dashboard for better business decision-making.
 
 
@@ -51,6 +50,6 @@ The goal is to extract meaningful insights from raw data and build an interactiv
 
 - Tools & Technologies
 
-- Python (Pandas, NumPy)
-- SQL (MySQL Server)
-- Power BI
+  - Python (Pandas, NumPy)
+  - SQL (MySQL Server)
+  - Power BI
